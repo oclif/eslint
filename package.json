@@ -1,0 +1,35 @@
+{
+  "name": "eslint-plugin-oclif",
+  "version": "0.0.7",
+  "description": "eslint plugin for oclif CLI",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslintplugin",
+    "typescript"
+  ],
+  "files": [
+    "dist",
+    "docs",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "author": "Moulik Aggarwal",
+  "license": "MIT",
+  "peerDependencies": {
+    "@typescript-eslint/parser": "^1.10.2",
+    "eslint": "^5.16.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "typescript": "^3.5.2"
+  },
+  "dependencies": {
+    "@typescript-eslint/experimental-utils": "^1.10.2"
+  }
+}
