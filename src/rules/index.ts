@@ -1,5 +1,5 @@
-import noNamespace from './no-namespace';
+// import noNamespace from './no-namespace';
 
 export default {
-  'no-namespace': noNamespace,
+  // 'no-namespace': noNamespace,
 }

@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-oclif",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "eslint plugin for oclif CLI",
   "main": "dist/index.js",
   "scripts": {
@@ -26,10 +26,11 @@
     "eslint": "^5.16.0"
   },
   "devDependencies": {
+    "@types/json-schema": "^7.0.2",
     "eslint": "^5.16.0",
     "typescript": "^3.5.2"
   },
   "dependencies": {
-    "@typescript-eslint/experimental-utils": "^1.10.2"
+    "@typescript-eslint/experimental-utils": "^1.11.0"
   }
 }
