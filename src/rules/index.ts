@@ -1,5 +1,5 @@
-// import noNamespace from './no-namespace';
+import commandClassVariable from './command-class-variables';
 
 export default {
-  // 'no-namespace': noNamespace,
+  'command-class-variables': commandClassVariable,
 }

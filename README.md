@@ -8,7 +8,7 @@ This is a linter plugin for the [oclif](https://github.com/oclif/oclif) which is
 
 __The version range of TypeScript currently supported by this plugin is >=3.2.1 <3.6.0.__
 
-* `yarn add -D eslint@5.16.0 typescript @typescript-eslint/parser`
+* `yarn add -D eslint@5.16.0 typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin`
 * `yarn add -D eslint-plugin-oclif`
 * Add `@typescript-eslint/parser` to the parser field and `oclif` to the plugins section of your `.eslintrc` configuration file:
 

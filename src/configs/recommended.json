@@ -5,6 +5,14 @@
         "plugin:@typescript-eslint/eslint-recommended",
         "plugin:@typescript-eslint/recommended"
     ],
+    "overrides":[
+        {
+            "files": ["src/commands/*.ts"],
+            "rules": {
+                "oclif/command-class-variables": "error"
+            }
+        }
+    ],
     "rules": {
         "indent": "off",
         "@typescript-eslint/indent": ["error",2],
