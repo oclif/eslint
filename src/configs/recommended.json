@@ -9,7 +9,8 @@
         {
             "files": ["src/commands/*.ts"],
             "rules": {
-                "oclif/command-class-variables": "error"
+                "oclif/command-class-variables": "error",
+                "oclif/no-multiple-flags": "error"
             }
         }
     ],

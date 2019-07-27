@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-oclif",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "eslint plugin for oclif CLI",
   "main": "dist/index.js",
   "scripts": {
