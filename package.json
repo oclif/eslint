@@ -23,10 +23,10 @@
   "license": "MIT",
   "peerDependencies": {
     "@typescript-eslint/parser": "^2.0.0",
-    "eslint": "^7.3.1"
+    "eslint": "^8.8.0"
   },
   "devDependencies": {
-    "eslint": "^7.3.1",
+    "eslint": "^8.8.0",
     "typescript": "3.8.3"
   },
   "dependencies": {
