@@ -4,7 +4,8 @@
   "description": "eslint plugin for oclif CLI",
   "main": "dist/index.js",
   "scripts": {
-    "build": "./node_modules/typescript/bin/tsc -p tsconfig.json"
+    "build": "./node_modules/typescript/bin/tsc -p tsconfig.json",
+    "test": "echo \"there are no tests\""
   },
   "keywords": [
     "eslint",
